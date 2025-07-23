@@ -1,36 +1,36 @@
-import random
+import random 
 
-# 1. Display the Game Introduction:
-print("\nWelcome to the Dojo Math Quiz!\n")
-print("================================================================================")
-print("\nThe Game Designed to Keep Your Mind 🧠 Sharp with Engaging Math Problems.\n")
+# 1. Display the Game Introduction: 
+print("\nWelcome to the Dojo Math Quiz!\n") 
+print("================================================================================") 
+print("\nThe Game Designed to Keep Your Mind 🧠 Sharp with Engaging Math Problems.\n") 
 
-# 2. Take and Validate the User Input for Name and Surname:
+# 2. Take and Validate the User Input for Name and Surname: 
 while True:
-    full_name = input("Enter Your Full Name (More than 8 Characters): ")
-    if full_name and len(full_name) > 8:
-        print(f"\nWelcome, {full_name}!")
-        break
-    else:
-        print("Please Enter a Valid Name.")
+    full_name = input("Enter Your Full Name (More than 8 Characters): ") 
+    if full_name and len(full_name) > 8: 
+        print(f"\nWelcome, {full_name}!") 
+        break 
+    else: 
+        print("Please Enter a Valid Name.") 
 
-# 3. Explain the Game Rules and Prompt User to Start:
-print("\nThe rules are simple:\n")
-print("- You get 3 attempts for the entire level")
-print("- Solve 10 math problems correctly to advance")
-print("- Each level gets progressively harder\n")
-print("Are you ready to get started? (yes/no)\n")
+# 3. Explain the Game Rules and Prompt User to Start: 
+print("\nThe rules are simple:\n") 
+print("- You get 3 attempts for the entire level") 
+print("- Solve 10 math problems correctly to advance") 
+print("- Each level gets progressively harder\n") 
+print("Are you ready to get started? (yes/no)\n") 
 
-while True:
-    start_game = input().strip().lower()
-    if start_game in ('yes', 'y'):
-        print("\nGreat... Let's Go! 🚀")
-        break
-    elif start_game in ('no', 'n'):
-        print("\nSee you next time! ✌️\n")
-        exit()
-    else:
-        print("Please enter 'yes' or 'no'.")
+while True: 
+    start_game = input().strip().lower() 
+    if start_game in ('yes', 'y'): 
+        print("\nGreat... Let's Go! 🚀") 
+        break 
+    elif start_game in ('no', 'n'): 
+        print("\nSee you next time! ✌️\n") 
+        exit() 
+    else: 
+        print("Please enter 'yes' or 'no'.") 
 
 # 4. Main Game Function with Level Progression
 def math_quiz():
@@ -76,7 +76,8 @@ def math_quiz():
                     else:
                         attempts_remaining -= 1
                         if attempts_remaining > 0:
-                            print(f"❌ Incorrect. Attempts left: {attempts_remaining}")
+                            print(f"❌ Incorrect. Attempts left: {attempts_remaining}") 
+                            break 
                         else:
                             print("❌ Incorrect. No attempts remaining.")
                 except ValueError:
@@ -105,5 +106,4 @@ def math_quiz():
 
 # 5. Start the Game
 math_quiz()
-
 
