@@ -6,7 +6,8 @@ date: 2025-07-24
 
 Hey there, my name is Mr Wobbly. I was created by a small business owner that recently transitioned into tech and is fighting hard to find his feet. Everything is shaky, nothing feels stable. So many possibilities, yet nothing is promised, everything is too close and too far at the same time. <br><br> 
 
-> So, what do we do?... Well... **We Organize** 🧠 <br><br> 
+> So, what do we do?... Well... **We Organize** 🧠 <br> 
+> Not with rigid plans, but with adaptive systems <br><br> 
 
 <br> I come straight from out of a man's imagination, but I am not a man myself... I'm just a compass. Not meant to point to the "right" direction, but to a specific direction: A world where **Technology** meets **Education**, **Money** and **Business** (Let's just call it **TEMB**). We shall explore this world together and see what gems it has to offer. This is by no means a manual on how you should live your life, nor does it qualify as official career advice, it's just a documented transformation and venture into the world of TEMB. 
 
@@ -17,6 +18,16 @@ As I have already disclosed to you, I am not a man but a compass. A compass crea
 
 #### **What Should You Expect from This Journey?** <br><br> 
 
+### 🔮 The TEMB Roadmap <br><br> 
+
+| Pillar       | What We'll Cover          | Why It Matters          |
+|--------------|---------------------------|-------------------------|
+| **Technology** | In-demand Coding Skills   | The New Literacy        |
+| **Education** | Self-taught Mastery       | Avoid Career Obsolescence |
+| **Money**     | Money is Energy            | Economic Freedom         |
+| **Business**  | Beyond the 9-to-5         | No more "Job for Life"    |
+
+<br> 
 The following is a list of topics that will be covered throughout this journey (you can call it a list of themes that the whole journey is based on). Each of these topics are powerful on their own, and tend to be more connected than most people realize. We will take a practical approach and present them in a way that draws attention to their underlying connection: 
 
 1. **Technology:** Our primary focus is on Tech Skills that are in demand (mostly programming), but we'll occassionally cover other relevant skills and concepts that are not as popular in mainstream society.   
@@ -31,5 +42,6 @@ The following is a list of topics that will be covered throughout this journey (
 
 Simply put... This journey is for anyone and everyone who wants to do better. Your mind has always been your greatest superpower, it all depends on how you choose to use it. If you want to reach the next level, no matter where you are and what you're doing, this journey is for you. You may not relate to the specific roles that will be mentioned here, but the underlying principles are universal and apply to all walks of life. We're all gonna grow together, so get excited. 😁 <br><br> 
 
--- Mr Wobbly 
+-- Mr Wobbly <br><br> 
 
+> Which TEMB pillar resonates most with you right now? Drop a 💻 (Tech), 📚 (Education), 💰 (Money), or 🏢 (Business) in the comments! 
