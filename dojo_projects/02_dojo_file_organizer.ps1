@@ -1,5 +1,5 @@
 function Organize-Downloads {
-    $downloadsPath = "C:\Users\Asus\Downloads"
+    $downloadsPath = "$UserProfile\<DownloadsFolder>"  # e.g.: "Downloads"
     $logFile = "$downloadsPath\OrganizerLog_$(Get-Date -Format 'yyyyMMdd').txt"
 
     $folders = @{
@@ -11,6 +11,7 @@ function Organize-Downloads {
         "Scripts"   = @("*.ps1", "*.sh", "*.py", "*.go", "*.js")
     }
 
+    # Create folders if they don't exist 
     foreach ($folder in $folders.Keys) {
         $fullPath = Join-Path -Path $downloadsPath -ChildPath $folder
         if (!(Test-Path -Path $fullPath)) {
@@ -18,6 +19,7 @@ function Organize-Downloads {
         }
     }
 
+    # Move files to their respective folders 
     foreach ($folder in $folders.Keys) {
         $extensions = $folders[$folder]
         foreach ($ext in $extensions) {
