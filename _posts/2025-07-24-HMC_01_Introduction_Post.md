@@ -18,7 +18,7 @@ As I have already disclosed to you, I am not a man but a compass. A compass crea
 
 #### **What Should You Expect from This Journey?** <br><br> 
 
-### 🔮 The TEMB Roadmap <br><br> 
+### 🔮 **The TEMB Roadmap** <br><br> 
 
 | Pillar       | What We'll Cover          | Why It Matters          |
 |--------------|---------------------------|-------------------------|
