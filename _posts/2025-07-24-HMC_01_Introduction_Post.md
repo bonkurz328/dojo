@@ -45,3 +45,12 @@ Simply put... This journey is for anyone and everyone who wants to do better. Yo
 -- Mr Wobbly <br><br> 
 
 > Which TEMB pillar resonates most with you right now? Drop a 💻 (Tech), 📚 (Education), 💰 (Money), or 🏢 (Business) in the comments! 
+
+## Comments 
+<script src="https://utteranc.es/client.js" 
+        repo="bonkurz328/dojo" 
+        issue-term="pathname" 
+        theme="github-light" 
+        crossorigin="anonymous" 
+        async> 
+</script> 
