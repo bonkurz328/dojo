@@ -7,7 +7,7 @@ date: 2025-07-24
 Hey there, my name is Mr Wobbly. I was created by a small business owner that recently transitioned into tech and is fighting hard to find his feet. Everything is shaky, nothing feels stable. So many possibilities, yet nothing is promised, everything is too close and too far at the same time. <br><br> 
 
 > So, what do we do?... Well... **We Organize** 🧠 <br> 
-> Not with rigid plans, but with adaptive systems <br><br> 
+>
 
 <br> I come straight from out of a man's imagination, but I am not a man myself... I'm just a compass. Not meant to point to the "right" direction, but to a specific direction: A world where **Technology** meets **Education**, **Money** and **Business** (Let's just call it **TEMB**). We shall explore this world together and see what gems it has to offer. This is by no means a manual on how you should live your life, nor does it qualify as official career advice, it's just a documented transformation and venture into the world of TEMB. 
 
